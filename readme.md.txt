@@ -1,0 +1,2 @@
+Pentru acest proiect: 
+Am simulat un sistem de monitorizare a tuturor dispozitivelor smart din casa. Am cautat cea mai simpla varianta de a implementa proiectul,folosind doar functii si dictionare. Cea mai dificila parte a fost gestionarea dictionarelor imbricate.Daca ar trebui sa refac proiectul, l-as face cat mai foolproof posibil.
